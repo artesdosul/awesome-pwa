@@ -114,11 +114,14 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [offline-wikipedia](https://wiki-offline.jakearchibald.com/): Offline Wikipedia
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
 * [PakWheels](https://www.pakwheels.com/): Buy/sell cars.
+* [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [Paytm Lite](https://paytm.com/): Online wallet and payments.
+* [Photopea](https://www.photopea.com/): Online Photo Editor.
 * [PixelCraft](https://pixelcraft.web.app): Pixel Art Editor
 * [Pokedex](https://pokedex.org/): Indexing Pokémon
 * [PokeQuest Wiki](https://pokequest.wiki/): Search for Pokémon
 * [Police Lights](https://policelights.tk/): Police Car Light Flash Screen App
+* [Pomotimer](https://pomotimer.com/): Pomodoro Technique Timer
 * [PregBuddy](https://app.pregbuddy.com): Information for pregnant women.
 * [Progressive Beer](https://deanhume.github.io/beer/): Progressive Beer
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
@@ -126,6 +129,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
+* [Rydeen](https://rydeen.app/): Task management app for individuals.
 * [SaintsApp](https://saintsschedule.info/): New Orleans Saints' game schedule.
 * [Saucekudasai](https://saucekudasai.com): An Anime seacrch engine that finds animeinfo based on image provided
 * [Scoreboard.Rocks](https://scoreboard.rocks/): Scoreboard App.
@@ -134,11 +138,13 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Skcript](https://www.skcript.com/): Ruby on Rails Consulting.
 * [Smaller Pictures](https://smaller-pictures.appspot.com): Image compressor.
 * [Snapdrop](https://snapdrop.net): Transfer files over wifi.
+* [SoundCloud](https://soundcloud.com/): Stream and listen to music.
 * [Soundpad](https://soundpad.tk/): Sound Sequencer App.
 * [Soundslice](https://www.soundslice.com): Create living sheet music.
 * [SplittyPie](https://splittypie.com): Easy expense splitting.
 * [Spotify](https://open.spotify.com/): Music streaming.
 * [sv-ginger](https://sv-ginger.appspot.com/): Ginger WebGL Morph Demo
+* [SvenPanel](https://svenpanel.de/): The Shrine - The Message Is Feierei Alda.
 * [SVGOMG](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
 * [Swahili Dictionary](https://swahili-dictionary.com/): Offline Swahili-English-Swahili dictionary
 * [Taskade](https://www.taskade.com): Remote Team Workspace.
@@ -164,6 +170,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [X Sound](https://korilakkuma.github.io/X-Sound/): Online keyboard synth.
 * [Yahtzee](https://zpix1.github.io/yahtzee/): Dice generator.
 * [Youtube Music](https://music.youtube.com/): Music streaming via YouTube.
+* [ztable.io](https://ztable.io/): Z-Table lookup & Z-Score calculator.
 
 ## Tutorials
 

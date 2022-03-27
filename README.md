@@ -85,6 +85,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Housing Go](http://www.housing.com): Real estate in India.
+* [Hugo](https://app.hugo.team/): Meeting notes.
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
 * [Indecisive.US](https://indecisive.us/): App to help you make a decision.
 * [IP Tools](https://iptools.tk/): Free, Fast & Flexible IP Tools.
@@ -127,6 +128,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [PWA-NES](https://pwa-nes.vercel.app/): 8-bit NES emulator
 * [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes.
 * [QR Code Scanner](https://qrcodescan.in/): Scan a QR code.
+* [Regex101](https://regex101.com/): Build, test and debug regex.
 * [Remember](https://paulhoughton.github.io/remember/): Location-based reminders.
 * [Resume Nation](https://resume-nation.github.io): Resume creator.
 * [Rydeen](https://rydeen.app/): Task management app for individuals.
@@ -161,6 +163,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Twitter](https://twitter.com): Microblogging app.
 * [Uber Web](https://m.uber.com): Ridesharing app.
 * [Unalengua IPA Translator](https://unalengua.com/ipa): Translate to IPA.
+* [VeganCheck](https://vegancheck.me): Check if a product is vegan or not.
 * [VeggieTables](https://veggietables.org): Track your crops and farming activities.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
 * [Wave-PD1](https://alexgibson.github.io/wavepad/): Synth toy.

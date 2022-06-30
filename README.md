@@ -46,6 +46,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Bolster](https://bolster.pro/): Bolster
 * [Booksie](https://www.booksie.org/): An open catalog of free picture storybooks for children instantly available for reading.
 * [Budget Tracker](https://btapp.netlify.com/): Track expenses and analyse if they stick to a budget
+* [bundle](https://bundle.js.org/): A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the resulting file size.
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
 * [Care Cards](https://carecards.io): Care Cards
 * [Cat Safe Foods](https://catsafefoods.com): Sharing food with your cat? Make sure it's safe first
@@ -64,6 +65,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [DevDocs](https://devdocs.io/): API Documentation Browser
 * [Digikala](https://www.digikala.com/): Digikala Web App
 * [Dog Safe Foods](https://dogsafefoods.com): Sharing food with your dog? Make sure it's safe first
+* [DTH Search India](https://www.dthchannelsearch.in/): Search DTH TV channel numbers in India.
 * [ELFSH](https://elfsh.mousetail.nl): Food and expense manager.
 * [emberclear](https://emberclear.io): Encrypted Chat. No History. No Logs.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
@@ -88,7 +90,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Hugo](https://app.hugo.team/): Meeting notes.
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
 * [Indecisive.US](https://indecisive.us/): App to help you make a decision.
-* [IP Tools](https://iptools.tk/): Free, Fast & Flexible IP Tools.
 * [Journalistic](https://journalisticapp.com/): Micro Journaling App.
 * [Joybox](https://joybox.rosano.ca): A pinboard for audiovisual media.
 * [jsfeatures](https://jsfeatures.in): JavaScript features
